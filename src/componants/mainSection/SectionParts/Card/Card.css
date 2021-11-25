@@ -1,0 +1,51 @@
+.card{
+    
+    border-bottom: 1px solid lightgray;
+   
+}
+.cardbox{
+    display: flex;
+   
+}
+.textArea{
+    margin-top: 10px;
+    margin-left: 5px;
+    
+    
+}
+
+.detailmain{
+   width: 70%;
+   margin-top: 40px;
+  line-height: 28px;
+}
+.detailmain p{
+    font-size: 18px;
+
+}
+.heading{
+    font-size: 23px;
+}
+.pricebar{
+  font-size: 20px;
+}
+
+.details{
+    display: flex;
+}
+
+
+.button{
+    width: 30%;
+  margin-top: 80px; 
+
+}
+.btn{
+   
+    margin-bottom: 5px;
+    padding: 8px 30px;
+    background-color: orange;
+    border-radius: 5px;
+    font-size: 18px;
+    font-weight: 400;
+}

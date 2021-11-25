@@ -1,0 +1,40 @@
+.logoSection img{
+    height: 80px;
+    width: 80px;
+
+}
+.logoSection{
+    display: flex;
+    
+}
+.LogotextSEction{
+   margin-top: 25px ;
+   line-height: 25px;
+    
+}
+.LogotextSEction h1{
+    font-size: 33px;
+    color: #00872d;
+
+}
+.LogotextSEction{
+    font-size: 20px;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 30px;
+}
+.adsSection{
+    padding: 15px 40px;
+    text-align: center;
+    background-color: #f2f2f2;
+    margin-top: 15px;
+    border-radius: 10px;
+    
+   
+}
+.adsSection h4{
+    color: #00872d;
+    font-weight: bolder;
+}

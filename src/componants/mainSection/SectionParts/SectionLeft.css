@@ -1,0 +1,20 @@
+.adsSEction{
+   width: 20%;
+    
+   
+    
+    
+}
+.adsImg img{
+    width: 150px;
+    height: 600px;
+   
+}
+.adsImg{
+   
+    display: flex;
+    float: right;
+    margin-right: 30px;
+    
+
+}

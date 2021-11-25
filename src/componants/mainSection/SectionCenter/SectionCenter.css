@@ -1,0 +1,12 @@
+.maincontainer{
+    display: flex;
+    width: 80%;
+}
+.centarContainer{
+    width: 76%;
+}
+.rightContainer{
+    width: 22%;
+
+  height: 80vh;
+}
